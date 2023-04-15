@@ -1,0 +1,26 @@
+Uygulama 1:
+
+* "movie-app/uygulama-1" klasörünü oluşturunuz.
+* "yüzüklerin-efendisi-yüzük-kardeşliği.html" isminde dosya ekleyiniz.
+* Html5 standardına uygun bir html içeriği ekleyiniz.
+* Sayfa başlığını "Yüzüklerin Efendisi: Yüzük Kardeşliği" olarak tanımlayınız.
+* Sayfa içeriği için aşağıdaki bilgileri kullanınız.
+** Seo için meta etiketlerini araştırıp kullanınız.
+
+
+Başlık: Yüzüklerin Efendisi: Yüzük Kardeşliği
+
+Yönetmen: Peter Jackson
+
+Özet: Yüzüklerin Efendisi: Yüzük Kardeşliği, dünyanın kaderini
+      değişterecek olan yüzükten kurtulmak için verilen mücadeleyi konu ediyor.
+      Yıllar önce üretilen ve Orta Dünya topraklarına kandan başka hiçbir şey
+      getirmeyen yüzüklerin sonuncusu, üretiminden yüz yıllar sonra ortaya
+      çıkar. Amcasının kendisine emanet ettiği yüzüğün nelere kadir olduğundan
+      habersiz olan Frodo, büyücü Gandalf'ın anlattıkları sonrasında dehşete
+      kapılır. Bu yüzükten ve müstakbel savaşlardan kurtulmanın tek yolu, gücünü
+      toplamaya çalışan Sauron'u da engellemek için bu yüzüğü yok etmektir.
+      Yüzüğü yok edilebileceği tek yer olan Mordor'a götürmek için kendini feda
+      eden savaşçılardan oluşan bir ekip oluşturulur. Çok uzun ve çetin geçecek
+      olan yolculuk başlar. Orta Dünya'nın kaderi, bu insanların ellerindedir.
+
